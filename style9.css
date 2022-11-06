@@ -1,0 +1,476 @@
+@import url('https://fonts.googleapis.com/css2?family=KoHo:ital,wght@0,500;0,600;1,400;1,600&display=swap');
+
+body{
+    font-family: 'KoHo', sans-serif;
+    display: inline-block;
+}
+
+header{
+    position: absolute;
+    width: 3660px;
+    height: 86px;
+    left: 0px;
+    top: 0px;
+    background: #F6EDD4;
+}
+
+.startsfurniture{
+    position: absolute;
+    width: 322px;
+    height: 62px;
+    left: 13px;
+    top: -13px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 62px;
+}
+
+.sofa{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 270px;
+    top: 22px;
+    background: url(Sofa.png);
+}
+
+.about{
+    position: absolute;
+    width: 143px;
+    height: 47px;
+    left: 1165px;
+    top: 20px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 24px; 
+    line-height: 47px;
+    text-decoration-line: underline;
+    color: black;
+}
+
+.contact{
+    position: absolute;
+    width: 168px;
+    height: 47px;
+    left: 1665px;
+    top: 20px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 24px; 
+    line-height: 47px;
+    text-decoration-line: underline;
+    color: black;
+}
+
+.aside-text1{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: -6px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text2{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 24px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text3{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 54px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text4{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 84px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text5{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 116px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text6{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 144px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text7{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 144px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text8{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 204px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text9{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 234px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside__asidediv{
+    position: absolute;
+    width: 175px;
+    height: 270px;
+    left: 0px;
+    top: 222px;
+    background: #F6EDD4;
+}
+
+.selected{
+    position: absolute;
+    width: 175px;
+    height: 30px;
+    left: 0px;
+    top: 180px;
+    background: #FFF8E6;
+}
+
+.bath1{
+    position: absolute;
+    width: 325px;
+    height: 327px;
+    left: 243px;
+    top: 123px;    
+}
+
+.bath2{
+    position: absolute;
+    width: 387px;
+    height: 365px;
+    left: 725px;
+    top: 106px;
+}
+
+.bath3{
+    position: absolute;
+    width: 319px;
+    height: 297px;
+    left: 1289px;
+    top: 106px;
+}
+
+.bath1-text{
+    position: absolute;
+    width: 157px;
+    height: 31px;
+    left: 335px;
+    top: 324px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.bath1-price{
+    position: absolute;
+    width: 96px;
+    height: 31px;
+    left: 366px;
+    top: 349px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 31px;
+}
+
+.bath2-text{
+    position: absolute;
+    width: 164px;
+    height: 31px;
+    left: 815px;
+    top: 324px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.bath2-price{
+    position: absolute;
+    width: 95px;
+    height: 31px;
+    left: 844px;
+    top: 349px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 31px;
+}
+
+.bath3-text{
+    position: absolute;
+    width: 164px;
+    height: 31px;
+    left: 1399px;
+    top: 324px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.bath3-price{
+    position: absolute;
+    width: 94px;
+    height: 31px;
+    left: 1430px;
+    top: 349px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;    
+}
+
+.bath4{
+    position: absolute;
+    width: 376px;
+    height: 290px;
+    left: 228px;
+    top: 475px;
+}
+
+.bath5{
+    position: absolute;
+    width: 487px;
+    height: 393px;
+    left: 664px;
+    top: 423px;
+}
+
+.bath6{
+    position: absolute;
+    width: 378px;
+    height: 295px;
+    left: 1262px;
+    top: 474px;
+}
+
+.bath4-text{
+    position: absolute;
+    width: 243px;
+    height: 31px;
+    left: 302px;
+    top: 679px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.bath4-price{
+    position: absolute;
+    width: 96px;
+    height: 31px;
+    left: 368px;
+    top: 705px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;    
+}
+
+.bath5-text{
+    position: absolute;
+    width: 157px;
+    height: 31px;
+    left: 806px;
+    top: 679px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.bath5-price{
+    position: absolute;
+    width: 96px;
+    height: 31px;
+    left: 837px;
+    top: 705px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.bath6-text{
+    position: absolute;
+    width: 157px;
+    height: 31px;
+    left: 1356px;
+    top: 679px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.bath6-price{
+    position: absolute;
+    width: 89px;
+    height: 31px;
+    left: 1387px;
+    top: 705px; 
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;    
+}
+
+.footer{
+    position: absolute;
+    width: 3660px;
+    height: 86px;
+    left: 0px;
+    top: 825px;
+    background: #F6EDD4;
+}
+
+.email{
+    position: absolute;
+    width: 403px;
+    height: 36px;
+    left: 447px;
+    top: -17px;
+    
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    
+}
+
+.phone-number{
+    position: absolute;
+    width: 432px;
+    height: 36px;
+    left: 959px;
+    top: -17px;
+    
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.copy-right{
+    position: absolute;
+    width: 528px;
+    height: 31px;
+    left: 651px;
+    top: 30px;
+    
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 31px;
+}

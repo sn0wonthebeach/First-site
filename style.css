@@ -1,0 +1,528 @@
+@import url('https://fonts.googleapis.com/css2?family=KoHo:ital,wght@0,500;0,600;1,400;1,600&display=swap');
+
+
+body{
+    font-family: 'KoHo', sans-serif;
+    overflow-x: hidden;
+    box-sizing: inherit;
+    box-sizing: border-box;
+    margin: 0;
+    /* position: relative; */
+}
+
+header{
+    /* max-width: 1440px; */
+    width: 1820px;
+    height: 86px;
+    left: 0px;
+    top: 0px;
+    background: #F6EDD4;
+    /* margin: 0 auto; */
+    /* padding: 0 15px; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.startsfurniture{
+    position: absolute;
+    width: 322px;
+    height: 62px;
+    left: 7px;
+    top: -23px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 62px;
+}
+
+.sofa{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 275px;
+    top: 18px;
+    background: url(Sofa.png);
+}
+
+.about{
+    position: absolute;
+    width: 143px;
+    height: 47px;
+    left: 1165px;
+    top: 20px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 24px; 
+    line-height: 47px;
+    text-decoration-line: underline;
+    color: black;
+}
+
+.contact{
+    position: absolute;
+    width: 168px;
+    height: 47px;
+    left: 1665px;
+    top: 20px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 24px; 
+    line-height: 47px;
+    text-decoration-line: underline;
+    color: black;
+}
+
+.aside-text1{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: -30px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+}
+
+.aside-text2{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 24px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text3{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 54px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text4{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 84px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text5{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 114px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text6{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 144px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text7{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 174px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text8{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 204px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside-text9{
+    position: absolute;
+    width: 113px;
+    height: 324px;
+    left: 0px;
+    top: 234px;
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    color: black;
+    text-decoration: none;
+}
+
+.aside__asidediv{
+    position: absolute;
+    width: 175px;
+    height: 270px;
+    left: 0px;
+    top: 222px;
+    background: #F6EDD4;
+}
+
+.selected{
+    position: absolute;
+    width: 175px;
+    height: 30px;
+    left: 0px;
+    top: 0px;
+    background: #FFF8E6;
+}
+
+.sofa1{
+    position: absolute;
+    width: 309px;
+    height: 225px;
+    left: 218px;
+    top: 141px;
+    background: url(sofa1.jpg);
+    max-width: 100%;
+    height: auto;
+}
+.sofa2{
+    position: absolute;
+    width: 421px;
+    height: 339px;
+    left: 748px;
+    top: 116px;
+    background: url(sofa2);
+}
+
+.sofa3{
+    position: absolute;
+    width: 390px;
+    height: 390px;
+    left: 1358px;
+    top: 86px;
+    background: url(sofa3.jpg);
+}
+
+.sofa1-text{
+    position: absolute;
+    width: 290px;
+    height: 31px;
+    left: 225px;
+    top: 331px;
+    
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.sofa1-price{
+    position: absolute;
+    width: 95px;
+    height: 31px;
+    left: 312px;
+    top: 360px;
+    
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+ .sofa2-text{
+    position: absolute;
+    width: 267px;
+    height: 31px;
+    left: 825px;
+    top: 331px;
+    
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.sofa2-price{
+    position: absolute;
+    width: 95px;
+    height: 31px;
+    left: 900px;
+    top: 360px;
+    
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.sofa3-text{
+    position: absolute;
+    width: 268px;
+    height: 31px;
+    left: 1435px;
+    top: 331px;
+    
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.sofa3-price{
+    position: absolute;
+    width: 96px;
+    height: 31px;
+    left: 1522px;
+    top: 360px;
+    
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.sofa4{
+    position: absolute;
+    width: 359px;
+    height: 252px;
+    left: 190px;
+    top: 500px;
+    background: url(sofa4);
+}
+
+.sofa5{
+    position: absolute;
+    width: 371px;
+    height: 252px;
+    left: 758px;
+    top: 490px;
+    background: url(sofa5);
+}
+
+.sofa6{
+    position: absolute;
+    width: 331px;
+    height: 363px;
+    left: 1384px;
+    top: 451px;
+    background: url(sofa6.jpg);
+}
+
+.sofa4-text{
+    position: absolute;
+    width: 221px;
+    height: 31px;
+    left: 255px;
+    top: 691px;
+    
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.sofa4-price{
+    position: absolute;
+    width: 96px;
+    height: 31px;
+    left: 317px;
+    top: 723px;
+    
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.sofa5-text{
+    position: absolute;
+    width: 247px;
+    height: 31px;
+    left: 809px;
+    top: 691px;
+    
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.sofa5-price{
+    position: absolute;
+    width: 93px;
+    height: 31px;
+    left: 879px;
+    top: 723px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    
+}
+
+.sofa6-text{
+    position: absolute;
+    width: 201px;
+    height: 31px;
+    left: 1440px;
+    top: 691px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.sofa6-price{
+    position: absolute;
+    width: 96px;
+    height: 31px;
+    left: 1490px;
+    top: 723px;
+    font-family: 'KoHo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.footer{
+    position: absolute;
+    width: 3660px;
+    height: 86px;
+    left: 0px;
+    top: 835px;
+    background: #F6EDD4;
+}
+
+.email{
+    position: absolute;
+    width: 403px;
+    height: 36px;
+    left: 447px;
+    top: -17px;
+    
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    
+}
+
+.phone-number{
+    position: absolute;
+    width: 432px;
+    height: 36px;
+    left: 959px;
+    top: -17px;
+    
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.copy-right{
+    position: absolute;
+    width: 528px;
+    height: 31px;
+    left: 651px;
+    top: 30px;
+    
+    font-family: 'KoHo';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    header{
+        position: absolute;
+        width: 1660px;
+        height: 45px;
+        left: 0px;
+        top: 0px;
+        background: #ac4e18;
+    }
+  }
